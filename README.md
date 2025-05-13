@@ -1,6 +1,8 @@
 # Sigma Games Slot Machine
 
-This is a repository of archaeological information on the Sigma Games Slot Machine which ran OS-9/6809. There are six ROMs on this board:
+This is a repository of archaeological information on the Sigma Games Slot Machine. Two Hitachi 6809s are on the motherboard -- each one runs a separate copy of OS-9 Level 1 in ROM.
+
+There are six ROMs on this board:
 
 - 27C256 (32K) ROM labeled "POKER-01-00 SOUND L88-0399"
 - 27C512 (64K) ROM labeled "SP55132 C-1204"
